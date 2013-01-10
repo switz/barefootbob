@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://switz.github.com/barefootbob/sitemap.xml 
+Sitemap: http://barefootbobmemorial.com/sitemap.xml 
